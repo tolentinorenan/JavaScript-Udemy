@@ -17,3 +17,8 @@ console.log(media.toString())  // TRANSFORMA O VALOR DE MEDIA EM UMA STRING
 
 console.log(typeof media)
 
+/*
+TIP
+Number com N maisculo é uma função
+number com n minusculo é o tipo
+*/
